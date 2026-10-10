@@ -1,3 +1,5 @@
-[submodule "libs/subproj"]
-	path = libs/subproj
-	url = https://github.com/lilplomba/subproj-renamed.git
+[submodule "vendor/subproj"]
+        path = vendor/subproj
+        url = https://github.com/lilplomba/subproj-renamed.git
+
+
